@@ -1,7 +1,7 @@
 # vue3-project
 
 Development Process: 
-1.Create the Vue project with command 'vue create <project-name>'
+1.Create the Vue project with command 'vue create project-name'
 2.Install Vuex as a state management tool
 3.Fetch Data from json file and store data in store.js
 4.Let the component invoke the data from store.js to see if it can be displayed successfully
